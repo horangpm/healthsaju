@@ -1,2 +1,2 @@
-# healthsaju
-건강 및 사주 관련 분석 웹 서비스
+# Inbody Health AI
+인바디데이터 건강 분석 웹서비스
